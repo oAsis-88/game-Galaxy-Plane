@@ -1,2 +1,2 @@
-# game-Galaxy-Plane
+# pyGame
 branches -> master
