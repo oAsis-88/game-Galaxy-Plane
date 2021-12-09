@@ -1,2 +1,2 @@
 # game-Galaxy-Plane
-# branchet -> master
+branches -> master
